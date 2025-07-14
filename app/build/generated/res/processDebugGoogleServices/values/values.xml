@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">874132126253</string>
+    <string name="google_api_key" translatable="false">AIzaSyD6qBvN5gCBjdCD3f9_CRw28PZX-qvlQEE</string>
+    <string name="google_app_id" translatable="false">1:874132126253:android:e7ffd72012092cfb4d56a4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD6qBvN5gCBjdCD3f9_CRw28PZX-qvlQEE</string>
+    <string name="google_storage_bucket" translatable="false">notetaking-app-9e424.appspot.com</string>
+    <string name="project_id" translatable="false">notetaking-app-9e424</string>
+</resources>
